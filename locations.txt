@@ -1,0 +1,4 @@
+{"ip":"::1","bogon":true,"timestamp":"2024-10-27 01:00:11"}
+{"ip":"::1","bogon":true,"timestamp":"2024-10-27 01:03:33"}
+{"ip":"::1","bogon":true,"timestamp":"2024-10-27 01:12:05"}
+{"ip":"::1","bogon":true,"timestamp":"2024-10-27 01:12:09"}
